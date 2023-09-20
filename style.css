@@ -1,0 +1,11 @@
+.div{
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
